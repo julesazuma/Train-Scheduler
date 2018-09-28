@@ -1,9 +1,9 @@
 .jumbotron {
-	background-color: azure;
+	background-color: steelblue;
 }
 
 body {
-	background-color: dodgerblue;
+	background-color: white;
 }
 
 .panel-heading {
@@ -12,7 +12,7 @@ body {
 
 .panel > .panel-heading {
     background-image: none;
-    background-color: #ddd;
-    color: grey;
+    background-color: steelblue;
+    color: black;
 
 }
